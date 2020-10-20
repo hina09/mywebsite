@@ -1,0 +1,101 @@
+
+
+h3{
+  background: linear-gradient(rgba(0,0,0,0) 38%, rgba(105,203,175,0.55)  0%);
+}
+
+img{
+  max-width:100%;
+  display:block; margin:auto;
+}
+
+h4{
+  font-weight:bolder;
+  font-size: 3.2vmin;
+  letter-spacing:3px; 
+
+}
+
+h5{
+  font-weight:bolder;
+  font-size: 2.4vmin;
+}
+
+
+
+
+.mytable {
+
+  background-color: rgba(255,255,255,0.6);
+}
+
+.mytable:hover{
+  
+  background-color: rgba(255,255,255,1);
+}
+
+
+.mydiv {
+  display: block; 
+
+  font-family: 'Noto Serif TC', serif;
+
+  text-align: center; 
+  font-size: 2.4vmin;
+}
+
+.mydiv a{
+    color: black;
+    text-decoration: none; 
+}
+.mydiv img{
+  //width: 100%;
+  max-width: 85vmin;
+  opacity: 1;
+  display: inline-block;
+}
+
+.mytable{
+  background-color: white;  
+  opacity:0.7;
+}
+
+.mytable:hover{
+  background-color: rgba(255,255,255,0.95);
+  opacity:1;
+}
+
+
+.shadow{
+  box-shadow: 6px 6px 16px 0px rgba(0,0,0,0.5); 
+}  
+
+.point{ 
+  font-weight:bolder;
+  color: rgb(255,60,50);
+}
+
+/*
+
+.container{
+  
+  background-color: rgba(255,255,255,0.6);
+}
+
+.container:hover{
+  
+  background-color: rgba(255,255,255,1);
+}
+*/
+
+ 
+.foot {
+  width: 100%;
+  padding-top: 100px;
+
+  color: #fff;
+  text-shadow: #4a696e 0.1em 0.1em 0.2em;
+  text-align: center; 
+}
+
+

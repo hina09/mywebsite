@@ -1,0 +1,96 @@
+
+ 
+h3{
+  background: linear-gradient(rgba(0,0,0,0) 38%, rgba(243,132,111,0.7)  0%);
+}
+.contact{
+  text-align: center; 
+  background-color: rgba(255,255,255,0.6);
+}
+
+.icon{
+}
+
+.icon img{
+  max-width:30px;
+}
+.info{
+
+
+}
+
+
+.mydiv-1 {
+  position: absolute; 
+  left: 50px; 
+  background-color: white;  
+//  top: 200px; 
+  top:35%;
+  opacity:0.5;
+
+  font-family: 'Noto Serif TC', serif;
+  font-size: 2.6vmin;
+  letter-spacing:3px;
+
+  z-index: 1;
+
+}
+
+.mydiv-2 {
+  position: absolute; 
+  right: 50px; 
+  background-color: black;  
+//  top: 600px; 
+  top:105%;
+  opacity:0.5;
+
+  color: white;
+  font-family: 'Noto Serif TC', serif;
+  font-size: 2.6vmin;
+  letter-spacing:3px;
+
+  z-index: 1;
+}
+
+.mydiv-img1 {
+position: absolute; 
+background:url(image/me2.jpg); 
+background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-position:right; 
+ background-size:auto 110%;
+
+ //top: 200px; 
+ top:30%;
+ width:100%;
+  height:50%;
+}
+ 
+
+.mydiv-img2 {
+position:absolute; 
+background:url(image/me1.jpg); 
+background-repeat:no-repeat; 
+background-attachment:fixed;
+background-size:auto 130%;
+
+//top: 600px; 
+top:100%;
+width:100%; 
+height:80%;
+}
+
+
+.foot {
+  position:absolute; 
+  top: 190%;
+
+  width: 100%;
+  padding: 20px;
+
+  color: #fff;
+  text-shadow: #4a696e 0.1em 0.1em 0.2em;
+  text-align: center; 
+}
+
+
